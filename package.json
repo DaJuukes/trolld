@@ -1,0 +1,26 @@
+{
+  "name": "trolld",
+  "version": "1.0.0",
+  "description": "A package that uses cryptographically-secure randomness to very rarely throw fake errors. Very discreet and could make for a very fun afternoon watching your co-worker!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaJuukes/trolld.git"
+  },
+  "keywords": [
+    "troll",
+    "fun",
+    "errors",
+    "coworker",
+    "funny"
+  ],
+  "author": "DaJuukes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaJuukes/trolld/issues"
+  },
+  "homepage": "https://github.com/DaJuukes/trolld#readme"
+}
