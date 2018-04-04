@@ -1,6 +1,6 @@
 {
   "name": "trolld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that uses cryptographically-secure randomness to very rarely throw fake errors. Very discreet and could make for a very fun afternoon watching your co-worker!",
   "main": "index.js",
   "scripts": {
