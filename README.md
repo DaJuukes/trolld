@@ -1,5 +1,5 @@
 # trolld
-A package that uses cryptographically-secure randomness to very rarely throw fake errors. Very discreet and could make for a very fun afternoon watching your co-worker!
+A package that randomly "throws" fake errors that look very scary. If used discreetly it could make for a very fun afternoon of watching your co-worker panic!
 
 # How to use
 Simple require the package as a function (preferably discreetly somehow):
